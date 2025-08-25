@@ -1,13 +1,9 @@
 {
-    "normalPacks": [
-        {
-            "id" : "001",
-            "version" : 1
-        },
-        {
-            "id" : "002",
-            "version" : 1
-        }
-    ],
-    "specialPacks" : []
+  "normalPacks": [
+    {
+      "id": "001",
+      "version": 1
+    }
+  ],
+  "specialPacks": []
 }

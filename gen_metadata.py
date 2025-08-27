@@ -36,7 +36,9 @@ def process_pack_file(pack_path):
 
     normal_metadata.append({
         "id": metadata_json.get("id", "unknown"),
-        "version": metadata_json.get("version", "unknown")
+        "version": metadata_json.get("version", "unknown"),
+        "starsPrice": metadata_json.get("starsPrice", 0),
+        "coinsPrice": metadata_json.get("coinsPrice", 0)
     })
 
 

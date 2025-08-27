@@ -1,0 +1,383 @@
+{
+  "id": "004",
+  "levels": [
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg",
+          "copyright": "Magda Ehlers @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2168238/pexels-photo-2168238.jpeg",
+          "copyright": "Teddy Yang @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33636786/pexels-photo-33636786.jpeg",
+          "copyright": "Anshul Kaushik @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/720298/pexels-photo-720298.jpeg",
+          "copyright": "Frans van Heerden @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3105219/pexels-photo-3105219.jpeg",
+          "copyright": "Isabella Mendes @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/1084425/pexels-photo-1084425.jpeg",
+          "copyright": "Em  Hopper @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/39396/hourglass-time-hours-sand-39396.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/707676/pexels-photo-707676.jpeg",
+          "copyright": "Andrey Grushnikov @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/707582/pexels-photo-707582.jpeg",
+          "copyright": "Cats Coming @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1178684/pexels-photo-1178684.jpeg",
+          "copyright": "Mike @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/110471/pexels-photo-110471.jpeg",
+          "copyright": "energepic.com @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/248747/pexels-photo-248747.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1534604/pexels-photo-1534604.jpeg",
+          "copyright": "Shukhrat Umarov @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1379374/pexels-photo-1379374.jpeg",
+          "copyright": "Denniz Futalan @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2314658/pexels-photo-2314658.jpeg",
+          "copyright": "Brett Sayles @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/953862/pexels-photo-953862.jpeg",
+          "copyright": "emirkhan bal @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/68180/africa-namibia-bauer-wagon-68180.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/2868226/pexels-photo-2868226.jpeg",
+          "copyright": "Matheus Bertelli @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/209339/pexels-photo-209339.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1709038/pexels-photo-1709038.jpeg",
+          "copyright": "GEORGE DESIPRIS @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2735970/pexels-photo-2735970.jpeg",
+          "copyright": "say straight @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1188410/pexels-photo-1188410.jpeg",
+          "copyright": "Mariana Blue @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/1248583/pexels-photo-1248583.jpeg",
+          "copyright": "Designecologist @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1407278/pexels-photo-1407278.jpeg",
+          "copyright": "Alexander Grey @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/349758/hummingbird-bird-birds-349758.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/459198/pexels-photo-459198.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1046492/pexels-photo-1046492.jpeg",
+          "copyright": "Thierry Fillieul @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.unsplash.com/photo-1629100393327-a3a1550354fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3OTU3NDZ8MHwxfHNlYXJjaHwyfHxiYXR8ZW58MHx8fHwxNzU2MzM0ODg1fDA&ixlib=rb-4.1.0&q=85",
+          "copyright": "Ishan @seefromthesky @ Unsplash"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/816294/pexels-photo-816294.jpeg",
+          "copyright": "Leigh Heasley @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg",
+          "copyright": "mali maeder @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg",
+          "copyright": "Marco Antonio Victorino @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/928251/pexels-photo-928251.jpeg",
+          "copyright": "Isabella Mendes @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/29436276/pexels-photo-29436276.jpeg",
+          "copyright": "Marcelo Verfe @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/533342/pexels-photo-533342.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/4667146/pexels-photo-4667146.jpeg",
+          "copyright": "cottonbro studio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/7041114/pexels-photo-7041114.jpeg",
+          "copyright": "Nadezhda Moryak @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/53389/iceberg-antarctica-polar-blue-53389.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3821250/pexels-photo-3821250.jpeg",
+          "copyright": "Monserrat Soldú @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/161702/harmony-relax-rock-moqui-161702.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1854664/pexels-photo-1854664.jpeg",
+          "copyright": "Elli @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg",
+          "copyright": "Tyler Lastovich @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33632618/pexels-photo-33632618.jpeg",
+          "copyright": "Yaşar Başkurt @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/38544/imac-apple-mockup-app-38544.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg",
+          "copyright": "Elvis @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3780681/pexels-photo-3780681.jpeg",
+          "copyright": "Soulful Pizza @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/116915/pexels-photo-116915.jpeg",
+          "copyright": "Mike Bird @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33234/nautilus-shell-shimmer-silver.jpg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1298684/pexels-photo-1298684.jpeg",
+          "copyright": "Emiliano Arano @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/134525/pexels-photo-134525.jpeg",
+          "copyright": "George Becker @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/5604265/pexels-photo-5604265.jpeg",
+          "copyright": "Yaroslav Shuraev @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1320761/pexels-photo-1320761.jpeg",
+          "copyright": "Jeff Ibera @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/390051/surfer-wave-sunset-the-indian-ocean-390051.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg",
+          "copyright": "Katarzyna Modrzejewska @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/458649/pexels-photo-458649.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/845457/pexels-photo-845457.jpeg",
+          "copyright": "Andrea Piacquadio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1323201/pexels-photo-1323201.jpeg",
+          "copyright": "MIXU @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/32632255/pexels-photo-32632255.jpeg",
+          "copyright": "Wolrider YURTSEVEN @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/712883/pexels-photo-712883.jpeg",
+          "copyright": "Kristina Paukshtite @ Pexels"
+        }
+      ]
+    }
+  ],
+  "starsPrice": 20,
+  "coinsPrice": 0,
+  "rewardStars": 5,
+  "rewardCoins": 100,
+  "powerUps": {},
+  "version": 1,
+  "packType": "PackType.normal",
+  "packVersion": 1
+}

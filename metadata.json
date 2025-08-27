@@ -2,15 +2,39 @@
   "normalPacks": [
     {
       "id": "001",
-      "version": 1
+      "version": 1,
+      "starsPrice": 0,
+      "coinsPrice": 0
     },
     {
       "id": "002",
-      "version": 1
+      "version": 1,
+      "starsPrice": 0,
+      "coinsPrice": 0
     },
     {
       "id": "003",
-      "version": 1
+      "version": 1,
+      "starsPrice": 15,
+      "coinsPrice": 0
+    },
+    {
+      "id": "004",
+      "version": 1,
+      "starsPrice": 20,
+      "coinsPrice": 0
+    },
+    {
+      "id": "005",
+      "version": 1,
+      "starsPrice": 25,
+      "coinsPrice": 0
+    },
+    {
+      "id": "006",
+      "version": 1,
+      "starsPrice": 0,
+      "coinsPrice": 0
     }
   ],
   "specialPacks": []

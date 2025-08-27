@@ -1,0 +1,383 @@
+{
+  "id": "005",
+  "levels": [
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/980859/pexels-photo-980859.jpeg",
+          "copyright": "一 徐 @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/147465/pexels-photo-147465.jpeg",
+          "copyright": "Bradley Hook @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg",
+          "copyright": "Magda Ehlers @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/753697/pexels-photo-753697.jpeg",
+          "copyright": "Ahmad Alsaad @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2758741/pexels-photo-2758741.jpeg",
+          "copyright": "Wendy Wei @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/358319/pexels-photo-358319.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/4887163/pexels-photo-4887163.jpeg",
+          "copyright": "Photo By: Kaboompics.com @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/18287195/pexels-photo-18287195.jpeg",
+          "copyright": "Xəyal Kərimbəyli @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/7639698/pexels-photo-7639698.jpeg",
+          "copyright": "My Photos @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/21547087/pexels-photo-21547087.jpeg",
+          "copyright": "C1 Superstar @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/33600419/pexels-photo-33600419.jpeg",
+          "copyright": "Regan Dsouza @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/6068494/pexels-photo-6068494.jpeg",
+          "copyright": "Eva Bronzini @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg",
+          "copyright": "Guduru Ajay bhargav @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/977235/pexels-photo-977235.jpeg",
+          "copyright": "Lê Minh @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33220924/pexels-photo-33220924.jpeg",
+          "copyright": "Trevor Lawrence @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/34514/spot-runs-start-la.jpg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1030794/pexels-photo-1030794.jpeg",
+          "copyright": "Ady April @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/5145/animal-easter-chick-chicken.jpg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg",
+          "copyright": "Richard Segal @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg",
+          "copyright": "Chevanon Photography @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/769433/pexels-photo-769433.jpeg",
+          "copyright": "Adriaan Greyling @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/70083/frog-macro-amphibian-green-70083.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/86405/penguin-funny-blue-water-86405.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1658747/pexels-photo-1658747.jpeg",
+          "copyright": "Isabella Mendes @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3217150/pexels-photo-3217150.jpeg",
+          "copyright": "Rene Terp @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg",
+          "copyright": "Samuel Wölfl @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/11046598/pexels-photo-11046598.jpeg",
+          "copyright": "mahdi chaghari @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/802255/pexels-photo-802255.jpeg",
+          "copyright": "Mike Bird @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/2760241/pexels-photo-2760241.jpeg",
+          "copyright": "Kateryna Babaieva @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1770650/pexels-photo-1770650.jpeg",
+          "copyright": "Lynda Sanchez @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1271147/pexels-photo-1271147.jpeg",
+          "copyright": "Paweł Fijałkowski @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/914996/pexels-photo-914996.jpeg",
+          "copyright": "Thomas Laukat @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/848599/pexels-photo-848599.jpeg",
+          "copyright": "Visit Almaty @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/3334473/pexels-photo-3334473.jpeg",
+          "copyright": "Jill Wellington @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1620929/pexels-photo-1620929.jpeg",
+          "copyright": "Vika Glitter @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/53977/eagle-owl-raptor-falconry-owl-53977.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3261020/pexels-photo-3261020.jpeg",
+          "copyright": "HitchHike @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/158340/fuchs-wild-animal-predator-animal-world-158340.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/634255/pexels-photo-634255.jpeg",
+          "copyright": "anne sch @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/10569549/pexels-photo-10569549.jpeg",
+          "copyright": "Aleksey Nosov @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/460961/pexels-photo-460961.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/129733/pexels-photo-129733.jpeg",
+          "copyright": "FWStudio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/268349/pexels-photo-268349.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/48812/material-web-texture-the-background-48812.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/2850515/pexels-photo-2850515.jpeg",
+          "copyright": "MILO TEXTURES @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2646237/pexels-photo-2646237.jpeg",
+          "copyright": "Dexter Fernandes @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1721096/pexels-photo-1721096.jpeg",
+          "copyright": "lil artsy @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/86594/goat-animal-horns-black-and-white-86594.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2538412/pexels-photo-2538412.jpeg",
+          "copyright": "Trace Hudson @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2607423/pexels-photo-2607423.jpeg",
+          "copyright": "Yoss Traore @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/584181/pexels-photo-584181.jpeg",
+          "copyright": "Nilina @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg",
+          "copyright": "Helena Lopes @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/259291/pexels-photo-259291.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/62289/yemen-chameleon-chamaeleo-calyptratus-chameleon-reptile-62289.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1463295/pexels-photo-1463295.jpeg",
+          "copyright": "Frans van Heerden @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/2156311/pexels-photo-2156311.jpeg",
+          "copyright": "Lone Jensen @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/31047032/pexels-photo-31047032.jpeg",
+          "copyright": "Christian  Alemu @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1114318/pexels-photo-1114318.jpeg",
+          "copyright": "Egor Kamelev @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/40875/weevil-macro-arthropod-entomology-40875.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    }
+  ],
+  "starsPrice": 25,
+  "coinsPrice": 0,
+  "rewardStars": 5,
+  "rewardCoins": 100,
+  "powerUps": {},
+  "version": 1,
+  "packType": "PackType.normal",
+  "packVersion": 1
+}

@@ -1,0 +1,383 @@
+{
+  "id": "002",
+  "levels": [
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/975012/pexels-photo-975012.jpeg",
+          "copyright": "Peter de Vink @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2746823/pexels-photo-2746823.jpeg",
+          "copyright": "Brett Jordan @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1715495/pexels-photo-1715495.jpeg",
+          "copyright": "祝 鹤槐 @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2611817/pexels-photo-2611817.jpeg",
+          "copyright": "Anna Tukhfatullina Food Photographer/Stylist @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/1340397/pexels-photo-1340397.jpeg",
+          "copyright": "Magda Ehlers @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/360314/pexels-photo-360314.jpeg",
+          "copyright": "asim alnamat @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/750225/pexels-photo-750225.jpeg",
+          "copyright": "Sebastian Sørensen @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/266526/pexels-photo-266526.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/712395/pexels-photo-712395.jpeg",
+          "copyright": "Fabio Partenheimer @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/327136/pexels-photo-327136.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/53422/ironing-iron-press-clothing-53422.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/436792/pexels-photo-436792.jpeg",
+          "copyright": "Dan Hamill @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/64609/pexels-photo-64609.jpeg",
+          "copyright": "Caio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/279949/pexels-photo-279949.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/3171837/pexels-photo-3171837.jpeg",
+          "copyright": "cottonbro studio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/313690/pexels-photo-313690.jpeg",
+          "copyright": "energepic.com @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/585419/pexels-photo-585419.jpeg",
+          "copyright": "Yury Kim @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/763934/pexels-photo-763934.jpeg",
+          "copyright": "Paul Efe @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+          "copyright": "Binyamin Mellish @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/753603/pexels-photo-753603.jpeg",
+          "copyright": "neil kelly @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1106476/pexels-photo-1106476.jpeg",
+          "copyright": "Mantas Sinkevičius @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/87223/pexels-photo-87223.jpeg",
+          "copyright": "Timur Saglambilek @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1650904/pexels-photo-1650904.jpeg",
+          "copyright": "Steven Hylands @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg",
+          "copyright": "Pixasquare Studio @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+          "copyright": "ge yonk @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg",
+          "copyright": "Matheus Bertelli @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/167703/pexels-photo-167703.jpeg",
+          "copyright": "Lum3n @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/910122/pexels-photo-910122.jpeg",
+          "copyright": "Robert Bogdan @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/4068314/pexels-photo-4068314.jpeg",
+          "copyright": "cottonbro studio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/3731256/pexels-photo-3731256.jpeg",
+          "copyright": "Luis Quintero @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1556704/pexels-photo-1556704.jpeg",
+          "copyright": "Daniel Reche @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/672636/pexels-photo-672636.jpeg",
+          "copyright": "moein moradi @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/301599/pexels-photo-301599.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/5771010/pexels-photo-5771010.jpeg",
+          "copyright": "cottonbro studio @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/735871/pexels-photo-735871.jpeg",
+          "copyright": "Burak The Weekender @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1227088/pexels-photo-1227088.jpeg",
+          "copyright": "Rahul @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg",
+          "copyright": "42 North @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/2254140/pexels-photo-2254140.jpeg",
+          "copyright": "Teddy Yang @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/111287/pexels-photo-111287.jpeg",
+          "copyright": "Clem Onojeghuo @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33605476/pexels-photo-33605476.jpeg",
+          "copyright": "Pam Crane @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/33597208/pexels-photo-33597208.jpeg",
+          "copyright": "brandon retratos @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/14694663/pexels-photo-14694663.jpeg",
+          "copyright": "The Earthy Jay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/159515/football-american-football-runner-player-159515.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2169302/pexels-photo-2169302.jpeg",
+          "copyright": "Edgar Colomba @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/896567/pexels-photo-896567.jpeg",
+          "copyright": "Mandie Inman @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/187329/pexels-photo-187329.jpeg",
+          "copyright": "Sascha Düser @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/1544774/pexels-photo-1544774.jpeg",
+          "copyright": "Sabel Blanco @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/2220337/pexels-photo-2220337.jpeg",
+          "copyright": "Alexas Fotos @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/302304/pexels-photo-302304.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1316297/pexels-photo-1316297.jpeg",
+          "copyright": "Jamshed Ahmad @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/397857/pexels-photo-397857.jpeg",
+          "copyright": "Steve @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/155164/pexels-photo-155164.jpeg",
+          "copyright": "Flickr @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/357209/pexels-photo-357209.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        }
+      ]
+    },
+    {
+      "hints": {},
+      "coinsToGet": 10,
+      "starsToGet": 1,
+      "images": [
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1530259/pexels-photo-1530259.jpeg",
+          "copyright": "Louis @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/286746/pexels-photo-286746.jpeg",
+          "copyright": "Palo Cech @ Pexels"
+        },
+        {
+          "isOddOne": true,
+          "url": "https://images.pexels.com/photos/64271/queen-of-liberty-statue-of-liberty-new-york-liberty-statue-64271.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg",
+          "copyright": "Chait Goli @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg",
+          "copyright": "Pixabay @ Pexels"
+        },
+        {
+          "isOddOne": false,
+          "url": "https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg",
+          "copyright": "Dominika Gregušová @ Pexels"
+        }
+      ]
+    }
+  ],
+  "starsPrice": 0,
+  "coinsPrice": 0,
+  "rewardStars": 5,
+  "rewardCoins": 100,
+  "powerUps": {},
+  "version": 1,
+  "packType": "PackType.normal",
+  "packVersion": 1
+}
